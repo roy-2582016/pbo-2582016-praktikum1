@@ -3,8 +3,10 @@ public class BiodataDiri {
         String nama = "Roy Sion Manalu";
         String nim  = "2582016";
         String programStudi = "Sistem Informasi";
-        System.out.println("Program Studi : " + programStudi);
+        String asalDaerah = "Siboong-borong";
         System.out.println("Nama : " + nama);
         System.out.println("NIM : " + nim);
+        System.out.println("Program Studi : " + programStudi);
+        System.out.println("Asal Daerah = " + asalDaerah);
     }
 }
