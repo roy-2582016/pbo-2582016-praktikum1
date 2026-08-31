@@ -4,9 +4,11 @@ public class BiodataDiri {
         String nim  = "2582016";
         String programStudi = "Sistem Informasi";
         String asalDaerah = "Siboong-borong";
-        System.out.println("Nama : " + nama);
-        System.out.println("NIM : " + nim);
-        System.out.println("Program Studi : " + programStudi);
-        System.out.println("Asal Daerah = " + asalDaerah);
+        String targetSemester = "Menguasai bahasa pemrograman java";
+        System.out.println("Nama                : " + nama);
+        System.out.println("NIM                 : " + nim);
+        System.out.println("Program Studi       : " + programStudi);
+        System.out.println("Asal Daerah         : " + asalDaerah);
+        System.out.println("Target Semester Ini : " + targetSemester);
     }
 }
